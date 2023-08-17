@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Emani</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p1kalys&label=Profile%20views&color=0e75b6&style=flat" alt="p1kalys" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p1kalys" alt="p1kalys" /></a> </p>
@@ -18,13 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/pavan2606/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pavan2606/" height="30" width="40" /></a>
+<a href="https://codepen.io/pavan2606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pavan2606" height="30" width="40" /></a>
 <a href="https://twitter.com/pavan2254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavan2254" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkata-pavankalyan-emani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkata-pavankalyan-emani/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/pavanemani14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pavanemani14" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/gibsongaleo?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gibsongaleo?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/p1kalys/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/p1kalys/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pavanemani14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pavanemani14/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venkata-pavankalyan-emani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-pavankalyan-emani/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pavanemani14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pavanemani14" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gibsongaleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gibsongaleo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/p1kalys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p1kalys" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pavanemani14/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pavanemani14/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

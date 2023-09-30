@@ -56,7 +56,7 @@
 
 ✅  GeeksForGeeks <br>
     - 180+ Problems Solved <br>
-    - Institute Rank 11 <br>
+    - Institute Rank 10 <br>
     - 540+ Coding Score <br>
 
 ✅ CodeStudio <br>

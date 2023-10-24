@@ -47,21 +47,21 @@
 ✅ I have solved almost 1500+ DSA Problems on Different Coding Platforms. <br>
 
 ✅  LeetCode <br>
-    - 430+ Problems Solved <br>
-    - 3⭐ Star || Max Rating 1542 <br>
-    - Under In the Top 36% <br>
+    - 500+ Problems Solved <br>
+    - 3⭐ Star || Max Rating 1571 <br>
+    - Under In the Top 25% <br>
 
 ✅  GeeksForGeeks <br>
-    - 180+ Problems Solved <br>
+    - 220+ Problems Solved <br>
     - Institute Rank 10 <br>
-    - 540+ Coding Score <br>
+    - 650+ Coding Score <br>
 
 ✅ CodeStudio <br>
     - 300+ Problems Solved <br>
     - Institute Rank 1. with Level 7 Expert <br>
     - Rating Max(3119) <br>
     - Top Performer on Leader Board <br>
-    - 18000+ Coding Score  <br>
+    - 19000+ Coding Score  <br>
 
 
 ✅ HackerRank <br>

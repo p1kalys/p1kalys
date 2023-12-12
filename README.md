@@ -75,6 +75,9 @@
 ✅ CodeForces <br>
     - Max(1185) Rating <br>
 
+## LeetCode Profile
+![](https://leetcard.jacoblin.cool/p1kalys?ext=heatmap)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=p1kalys&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>

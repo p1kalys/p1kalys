@@ -48,18 +48,18 @@
 
 ✅  LeetCode <br>
     - 600+ Problems Solved <br>
-    - 3⭐ Star || Max Rating 1783 <br>
-    - Under In the Top 8% <br>
+    - 3⭐ Star || Max Rating 1800+ <br>
+    - In the Top 8% <br>
 
 ✅  GeeksForGeeks <br>
-    - 300+ Problems Solved <br>
-    - Institute Rank 9 <br>
-    - 780+ Coding Score <br>
+    - 350+ Problems Solved <br>
+    - Institute Rank 1 <br>
+    - 1100+ Coding Score <br>
 
 ✅ CodeStudio <br>
     - 350+ Problems Solved <br>
     - Institute Rank 1. with Level 7 Expert <br>
-    - Rating Max(3484) <br>
+    - Rating Max(4000+) <br>
     - Top Performer on Leader Board <br>
     - 19000+ Coding Score  <br>
 
@@ -69,8 +69,8 @@
     - 5⭐ in Python || 5⭐ in C++ || 3⭐ in SQL <br>
 
 ✅ CodeChef <br>
-    - Max(1421) Rating <br>
-    - 150+ Problem Solved <br>
+    - 3🌟Max(1668) Rating <br>
+    - 250+ Problem Solved <br>
 
 ✅ CodeForces <br>
     - Max(1185) Rating <br>

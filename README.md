@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Emani</h1>
-<h3 align="center">Not Ideal but Dedicated Software Engineer from India </h3>
+<h3 align="center"><s>Ideal</s> Dedicated Software Engineer from India </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -15,66 +15,14 @@ I am actively looking for opportunities - [Hire Me](https://drive.google.com/fil
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# Projects I built
-- Built Own HTTP Server - [Code](https://github.com/p1kalys/Built-Own-HTTP-Server) - JavaScript
-- Built My Own Redis - [Code](https://github.com/p1kalys/own-redis-python) - Python, Socket, Multi-Threading
-- ETH Balance Retreival API - [Code](https://github.com/p1kalys/pioneer-assessment) - [API DOCS](https://pioneer-assessment-gdi5.onrender.com/api-docs/) - NodeJs, ExpressJs, MongoDB, SwaggerJs, Web3.js, Zod
-- CollabWrite - [Code](https://github.com/p1kalys/CollabWrite) - NodeJs, ExpressJs, QuillJs, Socket.io, ReactJs, MongoDB
-- FinSact(Transaction Management App) - [Code](https://github.com/p1kalys/finsact) - NodeJs, ReactJs, ExpressJs, MongoDB, Mongoose, Zod 
-- Built Own Git - [Code](https://github.com/p1kalys/build-own-git) - Python 
-- My Own JSON_Parser - [Code](https://github.com/p1kalys/Coding_Challenges_by_John_Crickett/tree/main/json_parser) - JavaScript
-- wc_tool - [Code](https://github.com/p1kalys/Coding_Challenges_by_John_Crickett/tree/main/wc_tool) - JavaScript
-- Video Chat - [Code](https://github.com/p1kalys/Video_Chat) - ExpressJs, NodeJs, Socket.io, WebRTC
-- Shopping Cart - [Code](https://github.com/p1kalys/ts-play-cart) - [Live](https://ts-play-cart.vercel.app/) - TypeScript, ReactJs
-- Tic-Tac-Toe - [Code](https://github.com/p1kalys/tic-tac-toe) - Python
-- TODO Authenticate API - [Code](https://github.com/p1kalys/Speer-Backend) - NodeJs, ExpressJs, MongoDB, JWT, Jest
-- ServChat - [Code](https://github.com/p1kalys/ServChat) - TypeScript, ReactJs, NextJs, Socket.io, Prisma, TailwindCSS, MySQL
-- Social Media API - [Code](https://github.com/p1kalys/SOCIAL-MEDIA-API) - NodeJs, ExpressJs, Mongoose, MongoDB, API Development
-- Cuvette Dashboard - [Code](https://github.com/p1kalys/Cuvette-Dashboard) - [Live](https://cuvette-dashboard-assignment.vercel.app/) - ReactJs
-- BookStore - [Code](https://github.com/p1kalys/BookStore) - NodeJs, ReactJs, ExpressJs, MongoDB, TailwindCSS
-- Modern Cars - [Code](https://github.com/p1kalys/Modern-Cars) - [Live](https://p1kalys.github.io/Modern-Cars/) - HTML, CSS, JavaScript, Animations
-- Background Changer - [Code](https://github.com/p1kalys/bg_change) - [Live](https://bg-change-psi.vercel.app/) - ReactJs, TailwindCSS
-- My Notes - [Code](https://github.com/p1kalys/My-notes-App/) - [Live](https://p1kalys.github.io/My-notes-App/) - HTML, CSS, JavaScript
-- Coffee Shop - [Code](https://github.com/p1kalys/Coffee-shop) - [Live](https://p1kalys.github.io/Coffee-shop/) - HTML, CSS, JavaScript
-- Stop Watch - [Code](https://github.com/p1kalys/Stop-Clock) - [Live](https://p1kalys.github.io/Stop-Clock/) - HTML, CSS, JavaScript
-- Binary Clock - [Code](https://github.com/p1kalys/Binary-Clock) - [Live](https://p1kalys.github.io/Binary-Clock/) - HTML, CSS, JavaScript
-- Responsive Landing Page - [Code](https://github.com/p1kalys/Responsive-landing-page) - [Live](https://p1kalys.github.io/Responsive-landing-page/) - HTML, CSS
-- Insta Story Feature - [Code](https://github.com/p1kalys/Insta-story-feature) - [Live](https://p1kalys.github.io/Insta-story-feature/) - HTML, CSS, JavaScript
-- Calculator - [Code](https://github.com/p1kalys/scientific-calculator-toggle-theme) - [Live](https://p1kalys.github.io/scientific-calculator-toggle-theme/) - HTML, CSS, JavaScript
-- Analog Clock - [Code](https://github.com/p1kalys/Analog_clock) - [Live](https://p1kalys.github.io/Analog_clock/) - HTML, CSS, JavaScript
-- Casino Game - [Code](https://github.com/p1kalys/Task-Management) - NodeJs
-- Sentimental Analysis - [Code](https://github.com/p1kalys/Sentiment-Analysis) - Machine Learning, Python
-- Task Management - [Code](https://github.com/p1kalys/Task-Management) - [Live](https://p1kalys.github.io/Task-Management/) - JavaScript, HTML/CSS
-- Survival Prediction - [Code](https://github.com/p1kalys/Titanic-Survival-prediction) - Machine Learning, Python
-- Image Classification - [Code](https://github.com/p1kalys/Image-Classification) - Machine Learning, Python
-
-## 🏆 Achievements
-
-✅  LeetCode <br>
-    - 800+ Problems Solved <br>
-    - 3⭐ Star || Max Rating 1800+ <br>
-    - In the Top 8% <br>
-
-✅  GeeksForGeeks <br>
-    - 350+ Problems Solved <br>
-    - Institute Rank 1 <br>
-    - 1100+ Coding Score <br>
-
-✅ CodeStudio <br>
-    - 350+ Problems Solved <br>
-    - Institute Rank 1. with Level 7 Expert <br>
-    - Rating Max(4000+) <br>
-    - Top Performer on Leader Board <br>
-    - 19000+ Coding Score  <br>
-
-
-✅ HackerRank <br>
-    - 300+ Problems Solved <br>
-    - 5⭐ in Python || 5⭐ in C++ || 3⭐ in SQL <br>
-
-✅ CodeChef <br>
-    - 3🌟Max(1721) Rating <br>
-    - 250+ Problem Solved <br>
+## Career Highlights
+- 30+ web products & features shipped including real-time collaborative editors, rental listing portals, and AI-powered event platforms
+- Boosted maintainability by 30% via JS to TypeScript migrations, reduced bugs, and revamped UIs
+- Onboarded 10,000+ users, delivered high-impact features
+- Increased free trial conversions by 25% through UI improvements and better onboarding flows
+- Ranked Institute #1 on GeeksforGeeks, achieved 3★ on CodeChef, and solved 1,500+ DSA problems
+- Selected for METI Japan Internship Program — international recognition for engineering talent
+- Featured as LinkedIn Top Voice (×2), dedicated to sharing engineering insights
 
 ## Coding Resources
 - My LeetCode Solutions - [Link](https://github.com/p1kalys/Leetcode-DSA-Vault)

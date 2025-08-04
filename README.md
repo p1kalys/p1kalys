@@ -17,30 +17,22 @@ Know more about me - Checkout [Portfolio](https://pavanemani.vercel.app/)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![Generative AI](https://img.shields.io/badge/Generative_AI-%2300BFFF.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![Solana](https://img.shields.io/badge/Solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=#00FF9F)
 ![web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -54,16 +46,22 @@ Know more about me - Checkout [Portfolio](https://pavanemani.vercel.app/)
 - Selected for METI Japan Internship Program — international recognition for engineering talent
 - Featured as LinkedIn Top Voice (×2), dedicated to sharing engineering insights
 
+## Open Source Contributions
+- Glasskube - [PR](https://github.com/glasskube/glasskube/pull/233)
+- TextBin - [PR-1](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/15), [PR-2](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/19)
+- Amplication - [PR](https://github.com/amplication/amplication/pull/8849)
+- Ethereum - [PR](https://github.com/ethereum/ethereum-org-website/pull/13768)
+- Communet - [PR](https://github.com/Commu-net/Communet-Api/pull/3)
+- Let's Code - [PR](https://github.com/Lets-code-with-us/open-source-programs/pull/5)
+- jigsaw-blog - [PR](https://github.com/squarecloudlabs/jigsaw-clean-blog/pull/2)
+
 ## Coding Resources
 - My LeetCode Solutions - [Link](https://github.com/p1kalys/Leetcode-DSA-Vault)
 - My GeeksForGeeks Solutions - [Link](https://github.com/p1kalys/Geeksforgeeks-DSA-Vault)
 - DSA-Resources - [Link](https://github.com/p1kalys/tic-tac-toe)
 
-## Open-Source Badges
-[![An image of @p1kalys's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p1kalys)](https://holopin.io/@p1kalys)
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=p1kalys&theme=tokyonight&rank_icon=percentile)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p1kalys&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api?username=p1kalys&theme=tokyonight&rank_icon=percentile)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)

@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Emani</h1>
 <h3 align="center"><s>Ideal</s> Dedicated Software Engineer from India </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pavan2254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavan2254" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/venkata-pavankalyan-emani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata-pavankalyan-emani/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pavanemani14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pavanemani14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/p1kalys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p1kalys" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pavanemani14/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pavanemani14/profile" height="30" width="40" /></a>
-</p>
-
 Know more about me - Checkout [Portfolio](https://pavanemani.vercel.app/)
 
 # 💻 Tech Stack:
@@ -47,6 +38,7 @@ Know more about me - Checkout [Portfolio](https://pavanemani.vercel.app/)
 - Featured as LinkedIn Top Voice (×2), dedicated to sharing engineering insights
 
 ## Open Source Contributions
+- OpenFiesta - [PR](https://github.com/NiladriHazra/Open-Fiesta/pull/97)
 - Glasskube - [PR](https://github.com/glasskube/glasskube/pull/233)
 - TextBin - [PR-1](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/15), [PR-2](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/19)
 - Amplication - [PR](https://github.com/amplication/amplication/pull/8849)

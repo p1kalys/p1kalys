@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Emani</h1>
 <h3 align="center"><s>Ideal</s> Dedicated Software Engineer from India </h3>
 
-Know more about me - Checkout [Portfolio](https://pavanemani.vercel.app/)
+Know more about me - Checkout [here](https://www.notion.so/Pavan-Emani-26a94bb80ff9806d8aaadf6db11bdd7f?source=copy_link)
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

@@ -47,10 +47,6 @@ Know more about me - Checkout [here](https://www.notion.so/Pavan-Emani-26a94bb80
 - Let's Code - [PR](https://github.com/Lets-code-with-us/open-source-programs/pull/5)
 - jigsaw-blog - [PR](https://github.com/squarecloudlabs/jigsaw-clean-blog/pull/2)
 
-## Coding Resources
-- My LeetCode Solutions - [Link](https://github.com/p1kalys/Leetcode-DSA-Vault)
-- My GeeksForGeeks Solutions - [Link](https://github.com/p1kalys/Geeksforgeeks-DSA-Vault)
-- DSA-Resources - [Link](https://github.com/p1kalys/tic-tac-toe)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=p1kalys&theme=tokyonight&rank_icon=percentile)

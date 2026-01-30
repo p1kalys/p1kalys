@@ -11,13 +11,10 @@ Know more about me - Checkout [here](https://www.notion.so/Pavan-Emani-26a94bb80
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-%2300BFFF.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=#00FF9F)
-![web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -29,15 +26,17 @@ Know more about me - Checkout [here](https://www.notion.so/Pavan-Emani-26a94bb80
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Career Highlights
-- 30+ web products & features shipped including real-time collaborative editors, rental listing portals, and AI-powered event platforms
+- 30+ web products & features shipped including dashboards, event management platforms, real-time collaborative editors, rental listing portals, and AI-powered event platforms
+- Automated GCP Leads generation using GCP Cloud Functions, and Vertex AI which scaled the efficiency of sales by 15%
 - Boosted maintainability by 30% via JS to TypeScript migrations, reduced bugs, and revamped UIs
 - Onboarded 10,000+ users, delivered high-impact features
-- Increased free trial conversions by 25% through UI improvements and better onboarding flows
+- Increased free trial conversions by 20% through UI improvements and better onboarding flows
 - Ranked Institute #1 on GeeksforGeeks, achieved 3★ on CodeChef, and solved 1,500+ DSA problems
-- Selected for METI Japan Internship Program — international recognition for engineering talent
+- Selected for METI Japan Internship Program — international recognition for engineering talent from India
 - Featured as LinkedIn Top Voice (×2), dedicated to sharing engineering insights
 
 ## Open Source Contributions
+- InsForge - [PR](https://github.com/InsForge/InsForge/pull/686)
 - OpenFiesta - [PR](https://github.com/NiladriHazra/Open-Fiesta/pull/97)
 - Glasskube - [PR](https://github.com/glasskube/glasskube/pull/233)
 - TextBin - [PR-1](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/15), [PR-2](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/19)

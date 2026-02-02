@@ -28,6 +28,7 @@ Know more about me - Checkout [here](https://www.notion.so/Pavan-Emani-26a94bb80
 ## Career Highlights
 - 30+ web products & features shipped including dashboards, event management platforms, real-time collaborative editors, rental listing portals, and AI-powered event platforms
 - Automated GCP Leads generation using GCP Cloud Functions, and Vertex AI which scaled the efficiency of sales by 15%
+- Secured data uploads to S3 with encryption/decryption pipeline and multi factor authentication
 - Boosted maintainability by 30% via JS to TypeScript migrations, reduced bugs, and revamped UIs
 - Onboarded 10,000+ users, delivered high-impact features
 - Increased free trial conversions by 20% through UI improvements and better onboarding flows
@@ -36,16 +37,7 @@ Know more about me - Checkout [here](https://www.notion.so/Pavan-Emani-26a94bb80
 - Featured as LinkedIn Top Voice (×2), dedicated to sharing engineering insights
 
 ## Open Source Contributions
-- InsForge - [PR](https://github.com/InsForge/InsForge/pull/686)
-- OpenFiesta - [PR](https://github.com/NiladriHazra/Open-Fiesta/pull/97)
-- Glasskube - [PR](https://github.com/glasskube/glasskube/pull/233)
-- TextBin - [PR-1](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/15), [PR-2](https://github.com/The-Enthusiast-404/text-bin-frontend/pull/19)
-- Amplication - [PR](https://github.com/amplication/amplication/pull/8849)
-- Ethereum - [PR](https://github.com/ethereum/ethereum-org-website/pull/13768)
-- Communet - [PR](https://github.com/Commu-net/Communet-Api/pull/3)
-- Let's Code - [PR](https://github.com/Lets-code-with-us/open-source-programs/pull/5)
-- jigsaw-blog - [PR](https://github.com/squarecloudlabs/jigsaw-clean-blog/pull/2)
-
+InsForge, OpenFiesta, Glasskube, TextBin, Amplication, Ethereum, Communet, Let's Code, jigsaw-blog and more...
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=p1kalys&theme=tokyonight&rank_icon=percentile)
